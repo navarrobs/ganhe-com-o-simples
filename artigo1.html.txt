@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>5 Formas Rápidas de Fazer Renda Extra</title>
+</head>
+<body>
+    <h1>5 Formas Rápidas de Fazer Renda Extra</h1>
+    <p>Nesse artigo você encontrará estratégias para gerar uma grana em poucos dias, com baixa barreira de entrada.</p>
+    <a href="index.html">Voltar</a>
+</body>
+</html>
